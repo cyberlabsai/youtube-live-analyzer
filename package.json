@@ -14,7 +14,7 @@
   "dependencies": {
     "bluebird": "^3.5.3",
     "dotenv": "^6.2.0",
-    "log4js": "^4.0.2",
+    "log4js": "^6.4.0",
     "parse5": "^5.1.0",
     "pg-promise": "^8.5.5",
     "puppeteer": "^1.12.2"
